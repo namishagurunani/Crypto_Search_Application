@@ -1,2 +1,2 @@
 # 29-Crypto_Search_Application
-# Demo [Link](https://mayankkatheriya.github.io/29-Crypto_Search_Application/)
+# Demo [Check](https://namishagurunani.github.io/Crypto_Search_Application/)
